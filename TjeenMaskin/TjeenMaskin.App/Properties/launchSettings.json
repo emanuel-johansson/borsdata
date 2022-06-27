@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "TjeenMaskin.App": {
+      "commandName": "Project",
+      "dotnetRunMessages": false,
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+    }
+  }
+
